@@ -1,7 +1,7 @@
 <img align="left" src="https://github.com/Gabryel-Kolzenti/Gabryel-Kolzenti/assets/140856204/77e8c8c3-46fb-46fa-94d7-ad13b34ce4e3" width="370px" height="420px" img/>
 
 
-## Olá, Mundo! Estou cursando: Programação Web Full-Stack (insituto da Oportunidade Social) e JavaScript e TypeScript básico ao avançado (Udemy).
+## Olá, Mundo! Estou cursando: Programação Web Full-Stack (insituto da Oportunidade Social), alem de JavaScript e TypeScript do básico ao avançado (Udemy).
 
 ### Tecnologias que estou aprendendo:
 
