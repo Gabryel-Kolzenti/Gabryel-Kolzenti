@@ -49,6 +49,7 @@
 
 <p align="left">
   💌 Navegue à vontade pelo perfil.
+  portfólio: https://gabryel-kolzenti.github.io/portfolio/
 </p>
 
 
