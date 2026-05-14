@@ -8,9 +8,13 @@ Tenho foco em dados, análise e criação de modelos, buscando evoluir continuam
 
 ### Tecnologias que estou aprendendo:
 
-![image](https://github.com/Gabryel-Kolzenti/Gabryel-Kolzenti/assets/140856204/b35c1a2f-de76-4fee-b550-bd33d50b5367)
-![image](https://github.com/Gabryel-Kolzenti/Gabryel-Kolzenti/assets/140856204/5e4c32d1-ac2e-4c77-81da-324101312633)
-![image](https://github.com/Gabryel-Kolzenti/Gabryel-Kolzenti/assets/140856204/9c9531e9-257d-4ab4-94f0-915c64f13967)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
+</p>
 
 ### Encontre-me:
 
@@ -19,8 +23,6 @@ Tenho foco em dados, análise e criação de modelos, buscando evoluir continuam
 ![image](https://github.com/Gabryel-Kolzenti/Gabryel-Kolzenti/assets/140856204/5504b35a-1b39-4bf5-b9d8-3ae75f82d359)
 
 <div align="center"> 
-
-<a href="https://github.com/MarquinCss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabryel-Kolzenti&layout=compact&theme=dark&hide_border=true" /></a>
 
 </img>
 
@@ -46,7 +48,7 @@ Tenho foco em dados, análise e criação de modelos, buscando evoluir continuam
 <p align="left">
 </p>
 
-💼 Ferramentas:  **Python, SQL, Excel, Power BI, Streamlit, Git/GitHub, Canva e Ferramentas Google.**
+💼 Ferramentas: **Python, SQL Server, Excel, Power BI, Streamlit, Git/GitHub, Pandas, NumPy, Seaborn, Matplotlib e Scikit-Learn.**
 
 <p align="left">
   💌 Navegue à vontade pelo perfil.
